@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! Nice to see you. 👋
 
-<!--
-**JoeHo0727/JoeHo0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeHo0727&count_private=true&hide=stars&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeHo0727&layout=compact)
+
+<!-- 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoeHo0727)](https://git.io/streak-stats)
+ -->
+ 
+ <!-- 
+![Visits Badge](https://badges.pufler.dev/visits/JoeHo0727/chinese_idioms)
+ -->
